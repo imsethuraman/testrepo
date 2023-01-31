@@ -1,3 +1,3 @@
 # IBM Assignment Tools for Data Science
-## Editing the file content
+## The file content
 its markdown file in repository
